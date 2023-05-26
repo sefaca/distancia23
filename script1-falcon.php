@@ -1,7 +1,7 @@
 <?php
 /**
 * @author Sergio Falcón De la Calle
-* @version 1.0.0
+* @version 2.0.0
 *
 */
 /**
